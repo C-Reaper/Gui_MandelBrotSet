@@ -1,12 +1,12 @@
 #include <math.h>
-//#include "C:/Wichtig/System/Static/Library/WindowEngine1.0.h"
+//#include "C:/Wichtig/System/Static/Library/WindowEngine.h"
 //#include "C:/Wichtig/System/Static/Library/Victor2.h"
 //#include "C:/Wichtig/System/Static/Library/Vdctor2.h"
 //#include "C:/Wichtig/System/Static/Library/Complex2.h"
 //#include "C:/Wichtig/System/Static/Library/TransformedView.h"
 //#include "C:/Wichtig/System/Static/Container/Vector.h"
 
-#include "/home/codeleaded/System/Static/Library/WindowEngine1.0.h"
+#include "/home/codeleaded/System/Static/Library/WindowEngine.h"
 #include "/home/codeleaded/System/Static/Library/Victor2.h"
 #include "/home/codeleaded/System/Static/Library/Vdctor2.h"
 #include "/home/codeleaded/System/Static/Library/Complex2.h"
